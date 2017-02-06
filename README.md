@@ -15,6 +15,14 @@ Python, Relational Database, PostgreSQl, Psycopg2
 
 You can download all the files: $ git clone https://github.com/fwangboulder/Project_Tournament_Results.git
 
+To structure code well and make sure they are Pep 8 compliant:
+
+install autopep8 and run it for my file.
+
+$ pip install --upgrade autopep8
+
+$ autopep8 --in-place --aggressive --aggressive  <filename>
+
 **How to run it?**
 
 
