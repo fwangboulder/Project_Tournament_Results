@@ -107,6 +107,8 @@ Step II. Git clone this repository.
 
     $ls
 
+    ```
+
     you will see three files inside:
 
     SQL database and table definitions in a file (tournament.sql)
@@ -123,6 +125,8 @@ Step II. Git clone this repository.
       # swiss_pairings(tournament_id): calculates appropriate match pairings
 
     A test suite to verify the code (tournament_test.py)
+
+    ```
 
     $python tournament_test.py
 
