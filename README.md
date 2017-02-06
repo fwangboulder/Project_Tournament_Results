@@ -21,7 +21,7 @@ install autopep8 and run it for my file.
 
 $ pip install --upgrade autopep8
 
-$ autopep8 --in-place --aggressive --aggressive  <filename>
+$ autopep8 --in-place --aggressive --aggressive  filename
 
 **How to run it?**
 
