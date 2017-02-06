@@ -3,10 +3,11 @@ Project 4 Udacity Full Stack Developer Nanodegree
 
 **Project Overview**
 
-In this project, I wrote a Python module that uses the PostgreSQL database to
+In this project, a Python module that uses the PostgreSQL database was written to
 keep track of players and matches in a game tournament. I developed a database
 schema to store the game matches between players and wrote a Python module to
 rank the players and pair them up in matches in a tournament.
+The module passes the included unit tests.
 
 *key words**:
 
