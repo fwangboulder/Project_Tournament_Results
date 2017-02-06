@@ -1,5 +1,6 @@
 # Project_Tournament_Results
-Project 4 Udacity Full Stack Developer Nanodegree
+Project 4 Relational Databases
+Udacity Full Stack Developer Nanodegree
 
 **Project Overview**
 
